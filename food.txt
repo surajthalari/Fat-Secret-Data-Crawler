@@ -1,0 +1,45 @@
+idli
+dosa
+puri
+chapathi
+appam
+bajji
+vada
+sambar
+rasam
+dal
+chicken curry
+tikka
+paneer
+masala
+brinjal curry
+andhra
+spinach
+biryani
+pulav
+tandoori
+coffee
+tea
+milk
+mutton curry
+fish curry
+pulusu
+karam
+pachadi
+bottle gaurd
+bitter gaurd
+ridge gaurd
+snake gaurd
+apple
+orange
+grapes
+pomogranate
+mausambi
+sugar
+rice
+paratha
+makhani
+ghee
+cream
+brown rice
+millets
