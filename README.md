@@ -1,4 +1,4 @@
-## **FatSecret Platform API**
+# **FatSecret Platform API**
 
 The FatSecret Platform API is the #1 verified food and nutrition database in the world, utilized by more than 10,000 developers, in more than 50 countries. Integrate high quality, curated food, nutrition and calorie data into mobile apps, websites, devices and complementary products and services.
 
